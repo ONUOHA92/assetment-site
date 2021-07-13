@@ -1,0 +1,17 @@
+.ul-styles{
+    padding-left: 100px;
+}
+
+@media (max-width: 540px) {
+    .ul-styles {
+        padding: 10px;
+    }
+}
+
+.Action-one {
+    padding-right: 100px;
+}
+
+.navbar-expand-lg {
+    padding: 1px;
+}

@@ -1,0 +1,11 @@
+.main-section {
+    background-color: #0043CE;
+    height: 400px;
+    padding: 30px;
+}
+
+@media (max-width: 540px) {
+    .main-section {
+        height: 700px;
+    }
+}
