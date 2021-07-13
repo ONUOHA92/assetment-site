@@ -8,12 +8,12 @@ const SectionPhone = () => {
                 <div className="card">
                     <div className="row">
                         <div className="col-md-6">
-                            <h1></h1>Ready to take-off with Kolopurse?
+                            <h1>Ready to take-off with Kolopurse?</h1>
                             <p>You can also download the mobile app today!</p>
                         </div>
-                        {/* <div className="col-md-6">
+                         <div className="col-md-6">
 
-                        </div> */}
+                        </div> 
                     </div>
                 </div>
 
